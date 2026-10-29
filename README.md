@@ -14,7 +14,7 @@
 - Default Parameters
 - Argument Object 
 - Spread 
-## Optional Chaining 
+## Optional Chaining   
 ## Equality & Comparison
 - == vs ===
 - Truthy vs Falsy values
