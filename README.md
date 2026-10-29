@@ -1,5 +1,5 @@
 ## Data type 
-- Primitive v/s Reference data type 
+- Primitive v/ s Reference data type 
 ## Variable
 - let 
 - var 
